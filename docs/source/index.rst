@@ -125,8 +125,8 @@ Contents
 ========
 
 .. toctree::
-
-   Lesson #1: Duties, skills, and ethics
+   :maxdepth: 1
+   
    duties_skills_and_ethics
    whistles
    verbal_cues_and_hand_signals
