@@ -139,42 +139,46 @@ Obsolete penalty cues
 Additional communications
 -------------------------
 
-- Skater identification required
+Skater identification required
+..............................
 
-    .. hlist::
-       :columns: 3
+.. hlist::
+   :columns: 3
 
-       * Show the star
-       * False start
-       * Report to the box
-       * Stay on the track
-       * Return to the track
-       * Go to your bench
-       * Lead Jammer
-       * Not lead jammer
+   * Show the star
+   * False start
+   * Report to the box
+   * Stay on the track
+   * Return to the track
+   * Go to your bench
+   * Lead Jammer
+   * Not lead jammer
+
      
-- No skater identification required
+No skater identification required
+.................................
 
-    .. hlist::
-       :columns: 3
+.. hlist::
+   :columns: 3
 
-       * Star pass complete
-       * Team timeout
-       * Official timeout
-       * Official review
-       * Jam is on
-       * Multiple penalties	
-       * No pack, or
+   * Star pass complete
+   * Team timeout
+   * Official timeout
+   * Official review
+   * Jam is on
+   * Multiple penalties
 
-	  - No pack, split
+* No pack, or
 
-       * Pack is here, or
+  - No pack, split
 
-	  - Pack is front / back / all / etc.
+* Pack is here, or
 
-       * Out of play, or
+  - Pack is front / back / all / etc.
 
-	  - Out of play in front / back
+* Out of play, or
+
+  - Out of play in front / back
 
       
 Hand signals
@@ -187,6 +191,7 @@ Hand signals
      
 - This is an appropriate time for referee trainees to learn standardized hand signals as well as hand signals used by the local officiating community.
 
+  
 Homework
 --------
 
