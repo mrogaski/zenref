@@ -6,6 +6,8 @@
 Welcome to Zen of Reffing!
 ==========================
 
+`Link text <link URL>`_
+
 A training manual for referees
 ------------------------------
 
