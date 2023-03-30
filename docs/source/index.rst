@@ -27,7 +27,8 @@ As used by
 
 .. list-table:: 
    :widths: 25 25
-   :header-rows: 0 
+   :header-rows: 0
+		 
    * - Badlands Roller Derby League (Drumheller, Canada)
      - Montreal Roller Derby (Montreal, Canada)
    * - Boom Town Roller Derby (Mat-Su Valley, Alaska)
