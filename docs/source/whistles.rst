@@ -3,7 +3,7 @@ Lesson #2: Whistles
 
 *by Stephen Lorimor / Axis of Stevil*
 
-`Watch this lesson on YouTube<https://www.youtube.com/watch?v=8Lcl4pL-mJ4&t=1s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=2>`_
+`Watch this lesson on YouTube <https://www.youtube.com/watch?v=8Lcl4pL-mJ4&t=1s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=2>`_
 
 Last updated: May 9, 2018
 

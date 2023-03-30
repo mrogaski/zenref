@@ -3,7 +3,7 @@ Lesson #3: Verbal cues and hand signals
 
 *by Stephen Lorimor / Axis of Stevil*
 
-Watch `lesson #3a (verbal cues)<https://www.youtube.com/watch?v=u0u6QaF_pDc&t=0s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=3>`_ and `lesson 3b (hand signals)<https://www.youtube.com/watch?v=NbzJ5ji5qOg&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=4&t=0s>`_ on YouTube.
+Watch `lesson #3a (verbal cues) <https://www.youtube.com/watch?v=u0u6QaF_pDc&t=0s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=3>`_ and `lesson 3b (hand signals) <https://www.youtube.com/watch?v=NbzJ5ji5qOg&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=4&t=0s>`_ on YouTube.
 
 Last updated: January 21, 2018
 

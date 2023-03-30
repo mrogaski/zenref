@@ -2,7 +2,7 @@ Lesson #1: Duties, skills, and ethics
 =====================================
 *by Stephen Lorimor / Axis of Stevil*
 
-`Watch this lesson on YouTube<https://www.youtube.com/watch?v=241NQYHZSsc&t=1s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=1>`_
+`Watch this lesson on YouTube <https://www.youtube.com/watch?v=241NQYHZSsc&t=1s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=1>`_
 
 Last updated: January 21, 2018
 
