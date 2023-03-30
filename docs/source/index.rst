@@ -122,7 +122,6 @@ The WFTDA, MRDA, or JRDA are not responsible for this document and make no claim
 
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
 
 	     duties_skills_and_ethics
