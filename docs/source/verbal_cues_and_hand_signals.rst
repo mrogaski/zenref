@@ -12,47 +12,79 @@ The basics
 ----------
 
 - All penalties are issued using the following format:
+  
    - (whistle) + team color + skater number “spelled out” + penalty (cue and hand signal) + report to the box hand signal
+     
 - Verbal cues (especially penalties) fall into three tiers called stars (one star, two star, etc.). They roughly correspond to basic, intermediate, and advanced cues.
+  
    - One-star cues sometimes lack specificity but are appropriate for the beginning official.
    - Two-star cues are standardized cues that provide additional information that replace one-star basic cues in certain situations. They are appropriate for experienced officials.
+     
    - Three-star cues are non-standardized and should be used as used as necessary to provide additional context. Advanced officials are expected to use these.
+     
    - Example:
+     
       - One star: “Gold one zero, illegal procedure”
       - Two stars: “Gold one zero, star pass violation”
       - Three stars: “Gold one zero, star pass violation, report as the jammer”
+	
 - Call loudly, clearly, and repeat hand signals as necessary (especially on the outside)
 
 Penalties
 ---------
 
 - 4.1.1 - Impact to an illegal target zone
+  
    - Back block				High block			Low block
+     
 - 4.1.2 - Impact with an illegal blocking zone
+  
    - Head block				Forearm			Leg block
+     
 - 4.1.3 - Other illegal contact
+  
    - Illegal Contact, or
+     
       - Illegal assist			Early hit			Late hit
       - Out of play block
+	
    - Direction, or
+     
       - Stop block
+	
 - 4.1.4 - Multiplayer blocks
+  
    - Multiplayer
+     
 - 4.2.1 - Illegal positioning
+  
    - Illegal position, or
+     
       - Failure to reform		Failure to return		Failure to yield
       - Destruction			Skating out of bounds
+	
 - 4.2.2 - Gaining position
+  
    - Cut, or
+     
       - Illegal re-entry
+	
 - 4.2.3 - Interfering with the flow of the game
+  
    - Interference, or
+     
       - Delay of game
+	
 - 4.2.4 - Other illegal procedures
+  
    - Illegal Procedure, or
+     
       - Star pass violation		Pass interference
+	
 - 4.3 - Unsporting conduct
+  
    - Misconduct, or
+     
       - Insubordination
 
       

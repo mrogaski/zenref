@@ -32,8 +32,9 @@ Required skills for referees
 - Skating skills
 - Rules mastery
 - The ability to correctly spot, process, and issue penalties
-  - This can take years to develop.
-  - Scrimmage experience is an important part of developing this skill
+  
+   - This can take years to develop.
+   - Scrimmage experience is an important part of developing this skill
     
 
 Conduct
@@ -42,14 +43,20 @@ Conduct
 - Display good judgment in regards to behavior, honesty, fairness, and integrity
 - Treat league and community members with respect, dignity, and fairness
 - Maintain exemplary (even over-the-top) standards of neutrality and impartiality
-  - No clapping, displaying team logos, posing for pictures with skaters, etc.
-  - No hugs, high-fives, celebratory behavior, etc.
+  
+   - No clapping, displaying team logos, posing for pictures with skaters, etc.
+   - No hugs, high-fives, celebratory behavior, etc.
+     
 - Demonstrate a consistently high commitment to safety
-  - We lose the authority to enforce safety in others if our own behavior is lax or inconsistent
+
+   - We lose the authority to enforce safety in others if our own behavior is lax or inconsistent
+     
 - Discuss rules and procedural disagreements privately, not in front of others. The more formal/public the atmosphere, the more likely discretion should be exercised.
 - Avoid conflicts of interest. Disclose all that exist to the head referee and/or crew
-  - Avoid: gambling, public predictions, public opinions of skaters (coaches, etc.)
-  - Allowed but disclose: Familial, financial, and associational
+  
+   - Avoid: gambling, public predictions, public opinions of skaters (coaches, etc.)
+   - Allowed but disclose: Familial, financial, and associational
+     
 - Refrain from gratuitous displays of attention-seeking behavior while on duty.
 - Zero tolerance of alcohol or drugs at derby-related events while officiating and/or on skates
 - Be wary what you post on social media about the sport
