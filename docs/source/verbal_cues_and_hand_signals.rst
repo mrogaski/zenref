@@ -83,10 +83,16 @@ Direction, or
 4.2.1 - Illegal positioning
 ...........................
 
-- Illegal position, or
+Illegal position, or
+     
+.. hlist::
+   :columns: 3
 
-   - Failure to reform		Failure to return		Failure to yield
-   - Destruction			Skating out of bounds
+   - Failure to reform
+   - Failure to return
+   - Failure to yield
+   - Destruction
+   - Skating out of bounds
 
       
 4.2.2 - Gaining position
@@ -110,7 +116,8 @@ Direction, or
 
 - Illegal Procedure, or
      
-   - Star pass violation		Pass interference
+   - Star pass violation
+   - Pass interference
 	
 4.3 - Unsporting conduct
 ........................
