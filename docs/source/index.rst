@@ -26,7 +26,7 @@ As used by
 ..........
 
 .. list-table:: 
-   :widths: 40 40
+   :widths: 50 50
    :header-rows: 0
 		 
    * - Badlands Roller Derby League (Drumheller, Canada)
