@@ -34,8 +34,13 @@ Penalties
 ---------
 
 - 4.1.1 - Impact to an illegal target zone
-  
-   - Back block				High block			Low block
+
+.. hlist::
+   :columns: 3
+	     
+   * Back block
+   * High block
+   * Low block
      
 - 4.1.2 - Impact with an illegal blocking zone
   
