@@ -11,7 +11,7 @@ A training manual for referees
 
 Created by Stephen “Axis of Stevil” Lorimor.
 
-URL: www.tinyurl.com/zenreffing
+URL: http://www.tinyurl.com/zenreffing
 
 ----
 
