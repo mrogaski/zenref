@@ -45,7 +45,7 @@ Don't forget...
 
    - Chase 	them down on the outside and repeat the call. This overrides your normal coverage.
 
-■	This may involve skating clockwise around the track to meet a counterclockwise moving jammer.
+      -	This may involve skating clockwise around the track to meet a counterclockwise moving jammer.
 
    - Communicate the penalty to the inside referees.
    - Communicate the penalty to another OPR in better position to make the call
