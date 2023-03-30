@@ -70,8 +70,11 @@ Illegal Contact, or
 
      
 Direction, or
+     
+.. hlist::
+   :columns: 3
 
-  - Stop block
+   - Stop block
 
       
 4.1.4 - Multiplayer blocks
@@ -98,7 +101,10 @@ Illegal position, or
 4.2.2 - Gaining position
 ........................
 
-- Cut, or
+Cut, or
+     
+.. hlist::
+   :columns: 3
      
    - Illegal re-entry
 
@@ -114,7 +120,10 @@ Illegal position, or
 4.2.4 - Other illegal procedures
 ................................
 
-- Illegal Procedure, or
+Illegal Procedure, or
+     
+.. hlist::
+   :columns: 3
      
    - Star pass violation
    - Pass interference
@@ -122,7 +131,10 @@ Illegal position, or
 4.3 - Unsporting conduct
 ........................
 
-- Misconduct, or
+Misconduct, or
+     
+.. hlist::
+   :columns: 3
      
    - Insubordination
 
