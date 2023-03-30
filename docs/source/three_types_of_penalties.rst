@@ -1,5 +1,5 @@
-Lesson #10: Jammer referees
-===========================
+Lesson #18: Three types of penalties
+====================================
 
 *by Stephen Lorimor / Axis of Stevil*
 

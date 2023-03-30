@@ -1,4 +1,4 @@
-Lesson #10: Pack formation
+Lesson #14: Pack formation
 ==========================
 
 *by Stephen Lorimor / Axis of Stevil*
