@@ -6,7 +6,7 @@
 Welcome to Zen of Reffing!
 ==========================
 
-`Link text <link URL>`_
+
 
 A training manual for referees
 ------------------------------
@@ -161,7 +161,7 @@ The WFTDA, MRDA, or JRDA are not responsible for this document and make no claim
 
 All lessons have accompanying videos available on YouTube.
 
-The entire set of video lessons can be found at this `link<https://www.youtube.com/playlist?list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_.
+The entire set of video lessons can be found at this `link <https://www.youtube.com/playlist?list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_.
 
 
 
