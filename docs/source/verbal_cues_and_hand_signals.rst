@@ -33,7 +33,8 @@ The basics
 Penalties
 ---------
 
-- 4.1.1 - Impact to an illegal target zone
+4.1.1 - Impact to an illegal target zone
+........................................
 
 .. hlist::
    :columns: 3
@@ -42,61 +43,77 @@ Penalties
    * High block
    * Low block
 
+     
+4.1.2 - Impact with an illegal blocking zone
+............................................
+
 .. hlist::
    :columns: 3
+	     
+   * Head block
+   * Forearm
+   * Leg block
 
-   * list of
-   * short items
-   * that should be
-   * displayed
-   * horizontally
      
-- 4.1.2 - Impact with an illegal blocking zone
-  
-   - Head block				Forearm			Leg block
-     
-- 4.1.3 - Other illegal contact
-  
+4.1.3 - Other illegal contact
+.............................
+
    - Illegal Contact, or
-     
-      - Illegal assist			Early hit			Late hit
-      - Out of play block
+
+.. hlist::
+   :columns: 3
+	     
+   * Illegal assist
+   * Early hit
+   * Late hit
+   * Out of play block
 	
    - Direction, or
      
       - Stop block
-	
-- 4.1.4 - Multiplayer blocks
+
+      
+4.1.4 - Multiplayer blocks
+..........................
   
    - Multiplayer
+
      
-- 4.2.1 - Illegal positioning
-  
+4.2.1 - Illegal positioning
+...........................
+
    - Illegal position, or
      
       - Failure to reform		Failure to return		Failure to yield
       - Destruction			Skating out of bounds
-	
-- 4.2.2 - Gaining position
-  
+
+      
+4.2.2 - Gaining position
+........................
+
    - Cut, or
      
       - Illegal re-entry
-	
-- 4.2.3 - Interfering with the flow of the game
-  
+
+      
+4.2.3 - Interfering with the flow of the game
+.............................................
+
    - Interference, or
      
       - Delay of game
-	
-- 4.2.4 - Other illegal procedures
-  
+
+      
+4.2.4 - Other illegal procedures
+................................
+
    - Illegal Procedure, or
      
       - Star pass violation		Pass interference
 	
-- 4.3 - Unsporting conduct
-  
+4.3 - Unsporting conduct
+........................
+
    - Misconduct, or
      
       - Insubordination
@@ -123,16 +140,31 @@ Additional communications
 -------------------------
 
 - Skater identification required
-  
-   - Show the star				False start			Report to the box
-   - Stay on the track			Return to the track		Go to your bench
-   - Lead Jammer				Not lead jammer
+
+.. hlist::
+   :columns: 3
+	     
+   * Show the star
+   * False start
+   * Report to the box
+   * Stay on the track
+   * Return to the track
+   * Go to your bench
+   * Lead Jammer
+   * Not lead jammer
      
 - No skater identification required
-  
-   - Star pass complete			Team timeout			Official timeout
-   - Official review				Jam is on			Multiple penalties	
-   - No pack, or
+
+.. hlist::
+   :columns: 3
+	     
+   * Star pass complete
+   * Team timeout
+   * Official timeout
+   * Official review
+   * Jam is on
+   * Multiple penalties	
+   * No pack, or
      
       - No pack, split
 	
