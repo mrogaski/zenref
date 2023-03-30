@@ -11,60 +11,60 @@ Last updated: January 14, 2019
 Concepts
 --------
 
--	Contact with an illegal blocking zone or to an illegal target zone is always a penalty if the block causes...
+- Contact with an illegal blocking zone or to an illegal target zone is always a penalty if the block causes...
 
-   -	the target to fall down or go out of bounds, out of play, or back into play
-   -	the target to lose position against the initiator or an initiator’s teammate
-   -	the initiator or a teammate to gain position on an opponent
+   - the target to fall down or go out of bounds, out of play, or back into play
+   - the target to lose position against the initiator or an initiator’s teammate
+   - the initiator or a teammate to gain position on an opponent
 
-      -	Brief and minor gains of position do not warrant a penalty unless earning a pass toward scoring or lead jammer status
+      - Brief and minor gains of position do not warrant a penalty unless earning a pass toward scoring or lead jammer status
 
--	It is not a penalty if the action was caused by the illegal action of an opponent
+- It is not a penalty if the action was caused by the illegal action of an opponent
 
 
 4.1.1 - Impact to an illegal target zone
 ----------------------------------------
 
--	Verbal cues and their corresponding illegal target zones
+- Verbal cues and their corresponding illegal target zones
 
-   -	“Low block” - legs below mid-thigh
-   -	“Back block” - butt or back (colloquially “between the bra straps”)
-   -	“High block” - neck or head
+   - “Low block” - legs below mid-thigh
+   - “Back block” - butt or back (colloquially “between the bra straps”)
+   - “High block” - neck or head
 
--	An illegal target zone block becomes legal (ie; the target becomes the initiator) if the target turns or moves thereby presenting an illegal target zone that cannot be avoided.
--	Contact with an opponent’s legs after falling small is not a penalty.
+- An illegal target zone block becomes legal (ie; the target becomes the initiator) if the target turns or moves thereby presenting an illegal target zone that cannot be avoided.
+- Contact with an opponent’s legs after falling small is not a penalty.
 
-   -	Exception: if this occurs 3+ times in a game
-   -	Exception: if sliding back in bounds initiates the contact
+   - Exception: if this occurs 3+ times in a game
+   - Exception: if sliding back in bounds initiates the contact
 
--	Avoidable forceful contact to the back warrants a penalty regardless of impact.
--	Forceful contact to the neck or head warrants a penalty
+- Avoidable forceful contact to the back warrants a penalty regardless of impact.
+- Forceful contact to the neck or head warrants a penalty
 
 
 4.1.2 - Impact with an illegal blocking zone
 --------------------------------------------
 
--	Verbal cues and their corresponding illegal blocking zones
+- Verbal cues and their corresponding illegal blocking zones
 
-   -	“Leg block” - legs (below mid-thigh)
-   -	“Forearm” - arms (elbow to fingertips) not tucked into the torso
-   -	“Head block” - head or neck
+   - “Leg block” - legs (below mid-thigh)
+   - “Forearm” - arms (elbow to fingertips) not tucked into the torso
+   - “Head block” - head or neck
 
--	Additional penalty thresholds include:
+- Additional penalty thresholds include:
 
-   -	Significantly altering an opponent’s speed (ie; impeding) or trajectory
-   -	Forcing an opponent significantly off balance
-   -	Intentionally and forcefully jabbing an opponent with the elbow or knee
+   - Significantly altering an opponent’s speed (ie; impeding) or trajectory
+   - Forcing an opponent significantly off balance
+   - Intentionally and forcefully jabbing an opponent with the elbow or knee
 
--	Head blocks need not include physical blocking (ie; can be positional) to warrant a penalty
+- Head blocks need not include physical blocking (ie; can be positional) to warrant a penalty
 
-   -	Intentional positional blocking
+   - Intentional positional blocking
 
-      -	No call - unintentional positioning causing an opponent to stop / change trajectory
-      -	Penalty - intentionally presenting one’s head to deter an opponent’s block
-      -	Penalty - continuing to deter an opponent’s block with one’s head after an initial unintentional positional block
-      -	Expulsion - reckless or negligent intentional positional block
+      - No call - unintentional positioning causing an opponent to stop / change trajectory
+      - Penalty - intentionally presenting one’s head to deter an opponent’s block
+      - Penalty - continuing to deter an opponent’s block with one’s head after an initial unintentional positional block
+      - Expulsion - reckless or negligent intentional positional block
 
-   -	Initiating a block with the head
+   - Initiating a block with the head
 
-      -	Penalty - forceful contact initiated with the head or neck
+      - Penalty - forceful contact initiated with the head or neck
