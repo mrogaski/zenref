@@ -12,48 +12,48 @@ The basics
 ----------
 
 - All penalties are issued using the following format:
-  - (whistle) + team color + skater number “spelled out” + penalty (cue and hand signal) + report to the box hand signal
+   - (whistle) + team color + skater number “spelled out” + penalty (cue and hand signal) + report to the box hand signal
 - Verbal cues (especially penalties) fall into three tiers called stars (one star, two star, etc.). They roughly correspond to basic, intermediate, and advanced cues.
-  - One-star cues sometimes lack specificity but are appropriate for the beginning official.
-  - Two-star cues are standardized cues that provide additional information that replace one-star basic cues in certain situations. They are appropriate for experienced officials.
-  - Three-star cues are non-standardized and should be used as used as necessary to provide additional context. Advanced officials are expected to use these.
-  - Example:
-    - One star: “Gold one zero, illegal procedure”
-    - Two stars: “Gold one zero, star pass violation”
-    - Three stars: “Gold one zero, star pass violation, report as the jammer”
+   - One-star cues sometimes lack specificity but are appropriate for the beginning official.
+   - Two-star cues are standardized cues that provide additional information that replace one-star basic cues in certain situations. They are appropriate for experienced officials.
+   - Three-star cues are non-standardized and should be used as used as necessary to provide additional context. Advanced officials are expected to use these.
+   - Example:
+      - One star: “Gold one zero, illegal procedure”
+      - Two stars: “Gold one zero, star pass violation”
+      - Three stars: “Gold one zero, star pass violation, report as the jammer”
 - Call loudly, clearly, and repeat hand signals as necessary (especially on the outside)
 
 Penalties
 ---------
 
 - 4.1.1 - Impact to an illegal target zone
-  - Back block				High block			Low block
+   - Back block				High block			Low block
 - 4.1.2 - Impact with an illegal blocking zone
-  - Head block				Forearm			Leg block
+   - Head block				Forearm			Leg block
 - 4.1.3 - Other illegal contact
-  - Illegal Contact, or
-    - Illegal assist			Early hit			Late hit
-    - Out of play block
-  - Direction, or
-    - Stop block
+   - Illegal Contact, or
+      - Illegal assist			Early hit			Late hit
+      - Out of play block
+   - Direction, or
+      - Stop block
 - 4.1.4 - Multiplayer blocks
-  - Multiplayer
+   - Multiplayer
 - 4.2.1 - Illegal positioning
-  - Illegal position, or
-    - Failure to reform		Failure to return		Failure to yield
-    - Destruction			Skating out of bounds
+   - Illegal position, or
+      - Failure to reform		Failure to return		Failure to yield
+      - Destruction			Skating out of bounds
 - 4.2.2 - Gaining position
-  - Cut, or
-    - Illegal re-entry
+   - Cut, or
+      - Illegal re-entry
 - 4.2.3 - Interfering with the flow of the game
-  - Interference, or
-    - Delay of game
+   - Interference, or
+      - Delay of game
 - 4.2.4 - Other illegal procedures
-  - Illegal Procedure, or
-    - Star pass violation		Pass interference
+   - Illegal Procedure, or
+      - Star pass violation		Pass interference
 - 4.3 - Unsporting conduct
-  - Misconduct, or
-    - Insubordination
+   - Misconduct, or
+      - Insubordination
 
       
 Obsolete penalty cues
@@ -77,33 +77,33 @@ Additional communications
 -------------------------
 
 - Skater identification required
-  - Show the star				False start			Report to the box
-  - Stay on the track			Return to the track		Go to your bench
-  - Lead Jammer				Not lead jammer
+   - Show the star				False start			Report to the box
+   - Stay on the track			Return to the track		Go to your bench
+   - Lead Jammer				Not lead jammer
 - No skater identification required
-  - Star pass complete			Team timeout			Official timeout
-  - Official review				Jam is on			Multiple penalties	
-  - No pack, or
-    - No pack, split
-  - Pack is here, or
-    - Pack is front / back / all / etc.
-  - Out of play, or
-    - Out of play in front / back
+   - Star pass complete			Team timeout			Official timeout
+   - Official review				Jam is on			Multiple penalties	
+   - No pack, or
+      - No pack, split
+   - Pack is here, or
+      - Pack is front / back / all / etc.
+   - Out of play, or
+      - Out of play in front / back
 
       
 Hand signals
 ------------
 
 - Referees must know all hand signals
-  - Expressively -- the ability to perform them correctly for others
-  - Receptively -- the ability to recognize hand signals by others
+   - Expressively -- the ability to perform them correctly for others
+   - Receptively -- the ability to recognize hand signals by others
 - This is an appropriate time for referee trainees to learn standardized hand signals as well as hand signals used by the local officiating community.
 
 Homework
 --------
 
 - Read and study the WFTDA Officiating Cues and Signals document
-  - https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf
+   - https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf
 - Have a friend quiz you until you can pass this test
-  - Print version: https://tinyurl.com/ycb4fun4
-  - YouTube version: https://tinyurl.com/y8l4nhqw
+   - Print version: https://tinyurl.com/ycb4fun4
+   - YouTube version: https://tinyurl.com/y8l4nhqw
