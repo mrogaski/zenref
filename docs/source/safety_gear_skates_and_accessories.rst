@@ -1,5 +1,5 @@
-Lesson #2: Whistles
-===================
+Lesson #5: Safety gear, skates, and accessories
+===============================================
 
 *by Stephen Lorimor / Axis of Stevil*
 
