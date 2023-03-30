@@ -58,7 +58,7 @@ Penalties
 4.1.3 - Other illegal contact
 .............................
 
-   - Illegal Contact, or
+- Illegal Contact, or
 
      
 .. hlist::
@@ -70,55 +70,55 @@ Penalties
    * Out of play block
 
      
-   - Direction, or
-     
-      - Stop block
+- Direction, or
+
+  - Stop block
 
       
 4.1.4 - Multiplayer blocks
 ..........................
   
-   - Multiplayer
+- Multiplayer
 
      
 4.2.1 - Illegal positioning
 ...........................
 
-   - Illegal position, or
-     
-      - Failure to reform		Failure to return		Failure to yield
-      - Destruction			Skating out of bounds
+- Illegal position, or
+
+   - Failure to reform		Failure to return		Failure to yield
+   - Destruction			Skating out of bounds
 
       
 4.2.2 - Gaining position
 ........................
 
-   - Cut, or
+- Cut, or
      
-      - Illegal re-entry
+   - Illegal re-entry
 
       
 4.2.3 - Interfering with the flow of the game
 .............................................
 
-   - Interference, or
+- Interference, or
      
-      - Delay of game
+   - Delay of game
 
       
 4.2.4 - Other illegal procedures
 ................................
 
-   - Illegal Procedure, or
+- Illegal Procedure, or
      
-      - Star pass violation		Pass interference
+   - Star pass violation		Pass interference
 	
 4.3 - Unsporting conduct
 ........................
 
-   - Misconduct, or
+- Misconduct, or
      
-      - Insubordination
+   - Insubordination
 
       
 Obsolete penalty cues
