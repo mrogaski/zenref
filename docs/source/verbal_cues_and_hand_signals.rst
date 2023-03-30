@@ -58,8 +58,7 @@ Penalties
 4.1.3 - Other illegal contact
 .............................
 
-- Illegal Contact, or
-
+Illegal Contact, or
      
 .. hlist::
    :columns: 3
@@ -70,7 +69,7 @@ Penalties
    * Out of play block
 
      
-- Direction, or
+Direction, or
 
   - Stop block
 
