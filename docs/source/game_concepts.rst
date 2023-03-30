@@ -1,5 +1,5 @@
-Lesson #3: Verbal cues and hand signals
-=======================================
+Lesson #3: Game concepts
+========================
 
 *by Stephen Lorimor / Axis of Stevil*
 
