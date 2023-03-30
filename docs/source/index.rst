@@ -27,8 +27,7 @@ As used by
 
 .. list-table:: 
    :widths: 25 25
-   :header-rows: 0
-		 
+   :header-rows: 0 
 * - Badlands Roller Derby League (Drumheller, Canada)
   - Montreal Roller Derby (Montreal, Canada)
 * - Boom Town Roller Derby (Mat-Su Valley, Alaska)
@@ -128,7 +127,6 @@ The WFTDA, MRDA, or JRDA are not responsible for this document and make no claim
    :numbered:
    :caption: Contents:
    :maxdepth: 1
-
 	     duties_skills_and_ethics
 	     whistles
 	     verbal_cues_and_hand_signals
