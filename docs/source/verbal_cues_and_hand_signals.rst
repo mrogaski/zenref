@@ -77,17 +77,25 @@ Additional communications
 -------------------------
 
 - Skater identification required
+  
    - Show the star				False start			Report to the box
    - Stay on the track			Return to the track		Go to your bench
    - Lead Jammer				Not lead jammer
+     
 - No skater identification required
+  
    - Star pass complete			Team timeout			Official timeout
    - Official review				Jam is on			Multiple penalties	
    - No pack, or
+     
       - No pack, split
+	
    - Pack is here, or
+     
       - Pack is front / back / all / etc.
+	
    - Out of play, or
+     
       - Out of play in front / back
 
       
@@ -95,15 +103,20 @@ Hand signals
 ------------
 
 - Referees must know all hand signals
+  
    - Expressively -- the ability to perform them correctly for others
    - Receptively -- the ability to recognize hand signals by others
+     
 - This is an appropriate time for referee trainees to learn standardized hand signals as well as hand signals used by the local officiating community.
 
 Homework
 --------
 
 - Read and study the WFTDA Officiating Cues and Signals document
+  
    - https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf
+     
 - Have a friend quiz you until you can pass this test
+  
    - Print version: https://tinyurl.com/ycb4fun4
    - YouTube version: https://tinyurl.com/y8l4nhqw
