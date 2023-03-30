@@ -41,6 +41,15 @@ Penalties
    * Back block
    * High block
    * Low block
+
+.. hlist::
+   :columns: 3
+
+   * list of
+   * short items
+   * that should be
+   * displayed
+   * horizontally
      
 - 4.1.2 - Impact with an illegal blocking zone
   
