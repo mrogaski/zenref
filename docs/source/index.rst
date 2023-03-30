@@ -125,7 +125,9 @@ The WFTDA, MRDA, or JRDA are not responsible for this document and make no claim
 
 
 .. toctree::
+   :numbered:
    :caption: Contents:
+   :maxdepth: 1
 
 	     duties_skills_and_ethics
 	     whistles
@@ -158,6 +160,7 @@ The WFTDA, MRDA, or JRDA are not responsible for this document and make no claim
 	     junior_derby_gameplay
 	     junior_derby_gear_checks
 	     document_change_summary
+
 
 All lessons have accompanying videos available on YouTube.
 
