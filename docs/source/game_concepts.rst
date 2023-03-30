@@ -1,4 +1,4 @@
-Lesson #3: Game concepts
+Lesson #4: Game concepts
 ========================
 
 *by Stephen Lorimor / Axis of Stevil*
