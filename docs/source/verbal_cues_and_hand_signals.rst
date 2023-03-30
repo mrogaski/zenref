@@ -60,6 +60,7 @@ Penalties
 
    - Illegal Contact, or
 
+     
 .. hlist::
    :columns: 3
 	     
@@ -67,7 +68,8 @@ Penalties
    * Early hit
    * Late hit
    * Out of play block
-	
+
+     
    - Direction, or
      
       - Stop block
