@@ -13,7 +13,7 @@ A training manual for referees
 
 Created by Stephen “Axis of Stevil” Lorimor.
 
-URL: http://www.tinyurl.com/zenreffing
+URL: http://zen-roller-derby.xyz
 
 ----
 
