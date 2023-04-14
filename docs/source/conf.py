@@ -15,10 +15,14 @@ release = '1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ['rst2pdf.pdfbuilder']
+
+# (source start file, target name, title, author, documentclass).
 pdf_documents = [('index',
                   u'rst2pdf',
                   u'The Zen of Reffing Roller Derby',
-                  u'Axis of Stevil'),]
+                  u'Axis of Stevil',
+                  'manual'
+),]
 
 templates_path = ['_templates']
 exclude_patterns = []
