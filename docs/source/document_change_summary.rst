@@ -5,6 +5,8 @@ This is a list of changes within the last six months. It does not include minor 
 
 ------------
 
+April 2023 - Update for the 2023 changes on counterblocking.
+
 May 19, 2022 - A slew of minor grammatical fixes suggested by Molotov Latte.  (Thanks!)
 
 November 26, 2019 - Updated the link in Lesson 29 (“Junior derby - gameplay”) to the current JRDA rule set.
