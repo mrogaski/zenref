@@ -15,7 +15,7 @@ Created by Stephen “Axis of Stevil” Lorimor.
 
 URL: http://zen-roller-derby.xyz
 
-`Get printable version here <https://roller-derby.frama.io/the-zen-of-reffing/zen-roller-derby.pdf>`_
+`Get the printable version here <https://roller-derby.frama.io/the-zen-of-reffing/zen-roller-derby.pdf>`_
 
 ----
 
