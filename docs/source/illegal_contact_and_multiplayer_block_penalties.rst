@@ -3,7 +3,7 @@ Lesson #20: Illegal contact and multiplayer block penalties
 
 *by Stephen Lorimor / Axis of Stevil*
 
-Watch `lesson #20a (Illegal contact penalties) <>`_ and `lesson 20b (Multiplayer block penalties) <>`_.
+Watch `lesson #20a (Illegal contact penalties) <https://www.youtube.com/watch?v=TtM_agEfe6s&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=23>`_ and `lesson 20b (Multiplayer block penalties) <https://www.youtube.com/watch?v=VoTkhmjy1cc&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7&index=24>`_.
 
 Last updated: January 9, 2019
 
