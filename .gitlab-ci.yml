@@ -10,10 +10,10 @@ pages:
     - apt-get update && apt-get install make --no-install-recommends -y
     - python -m pip install sphinx furo rst2pdf
   script:
-    - cd docs && make html && sphinx-build -b pdf source build
+    - cd docs && make html && make latexpdf
   after_script:
     - mv docs/build/html/ ./public/
-    - mv docs/build/rst2pdf.pdf ./public/zen-roller-derby.pdf
+    - mv docs/build/latex/zenofreffing.pdf ./public/zen-roller-derby.pdf
   artifacts:
     paths:
     - public
