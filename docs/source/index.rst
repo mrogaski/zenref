@@ -123,7 +123,7 @@ The WFTDA, MRDA, or JRDA are not responsible for this document and make no claim
 
 
 Contents
-========
+--------
 
 .. toctree::
    :maxdepth: 1
