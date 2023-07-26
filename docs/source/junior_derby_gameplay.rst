@@ -18,7 +18,7 @@ Basic concepts
 - Games utilizing the JRDA ruleset can occur at three “levels”.
 
    - Level one is “no contact”.
-   - Level two is “gentle initial contact” / “lean bocking” only.
+   - Level two is “gentle initial contact” / “lean blocking” only.
    - Level three is “regular adult derby”. All JRDA sanctioned games occur at this level.
 
 - Junior derby places a stronger emphasis than adult derby on safety, personal development, and fostering a supportive environment.
