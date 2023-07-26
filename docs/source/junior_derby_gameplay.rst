@@ -1,5 +1,5 @@
-Lesson #23: Unsporting conduct penalties
-========================================
+Lesson #29: Junior Derby Gameplay
+=================================
 
 *by Stephen Lorimor / Axis of Stevil*
 
