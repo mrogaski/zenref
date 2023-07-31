@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Zen of Reffing'
+project = 'The Zen of Reffing'
 copyright = '2023, Axis of Stevil, Luna, Blocktopus'
 author = 'Axis of Stevil, Luna, Blocktopus'
 release = '1.0'
