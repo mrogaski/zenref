@@ -11,7 +11,7 @@ Welcome to the Zen of Reffing Roller Derby!
 A training manual for referees
 ------------------------------
 
-Created by Stephen “Axis of Stevil” Lorimor.
+Created by Stephen “Axis of Stevil” Lorimor. Maintained by Isabelle “Blocktopus” Santos.
 
 URL: http://zen-roller-derby.xyz
 
