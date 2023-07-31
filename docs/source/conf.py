@@ -15,7 +15,7 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['rst2pdf.pdfbuilder']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -30,23 +30,15 @@ html_static_path = ['_static']
 
 # -- Options for PDF output --------------------------------------------------
 
-latex_engine = 'pdflatex'
-
-latex_elements = {
-    'papersize': 'a4paper',
-    'fncychap': '\\usepackage{fncychap}',
-    'pointsize': '12pt',
-    'preamble': r'''
-        \setcounter{secnumdepth}{1}
-        \setcounter{tocdepth}{1}
-    ''',
-}
-
-# -- Options for Epub output ----------------------------------------------
-
-epub_title = project
-epub_author = author
-epub_publisher = author
-epub_copyright = copyright
-
-epub_exclude_files = ['search.html']
+# (source start file, target name, title, author, documentclass).
+pdf_documents = [('index',
+                  u'rst2pdf',
+                  u'The Zen of Reffing Roller Derby',
+                  u'Axis of Stevil',
+                  'manual'
+),]
+pdf_stylesheets = ['sphinx', 'a4']
+pdf_language = "en_US"
+pdf_break_level = 1
+pdf_use_index = False
+pdf_toc_depth = 2
