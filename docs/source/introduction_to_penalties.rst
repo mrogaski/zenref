@@ -1,11 +1,11 @@
 Lesson #17: Introduction to penalties
 =====================================
 
-*by Stephen Lorimor / Axis of Stevil*
+*by Stephen Lorimor / Axis of Stevil and Isabelle Santos / Blocktopus*
 
 `Watch this lesson on YouTube <https://www.youtube.com/watch?v=joDMFs7KLVc&index=19&list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_
 
-Last updated: January 9, 2019
+Last updated: March 31, 2023
 
 
 Concepts
@@ -48,6 +48,7 @@ Concepts
    - Counter-blocking is movement toward an incoming block to counter its force.
 
       - Exception: blocking while out of play. (Blocking is illegal, counter-blocking is legal)
+      - Continued engagement after a counter-block becomes a block.
 
 - A skater penalized between jams serves the penalty in the position they appear to be acting.
 
