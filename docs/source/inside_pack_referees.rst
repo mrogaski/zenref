@@ -22,11 +22,11 @@ Front and rear IPR duties
 - An IPR (usually the rear) almost always serves as the game’s head referee
 
 
-Rear IPR duties
----------------
+Rear IPR (IPR-R) duties
+-----------------------
 
 - Holds primary responsibility for defining the pack
-- RIPR has an ideal view to issue penalties for:
+- IPR-R has an ideal view to issue penalties for:
 
    - Back blocks
    - Failure to yield after a jammer line false start
@@ -40,13 +40,13 @@ Rear IPR duties
 - Between jams, confirm skaters in the penalty box queue enter the next jam in the correct position
 
 
-Front IPR duties
-----------------
+Front IPR (IPR-F) duties
+------------------------
 
-- Defines the pack when the RIPR needs assistance
+- Defines the pack when the IPR-R needs assistance
 
    - Often occurs when there is an out of play situation to the rear
-   - When the RIPR is confused or has erred
+   - When the IPR-R is confused or has erred
 
 - Watches closely for these penalties
 
@@ -63,7 +63,7 @@ Front IPR duties
 Tips
 ----
 
-- The front IPR should remain ahead of or even with the foremost blocker.
-- The front IPR primarily skates backward. Good backward skating skills are important.
+- The IPR-F should remain ahead of or even with the foremost blocker.
+- The IPR-F primarily skates backward. Good backward skating skills are important.
 - Skating a few feet away from the track line not only gives room for the jammer refs to pass, it widens your field of vision allowing you to see more action on the track.
 - If you notice a jammer referee is inconsistent about dropping the whistle from their mouth when covering a not-lead jammer, add their name to your lead is closed call to subtly (and politely) call their attention to your declaration. (ex; “Lead is closed, Stevil”)
