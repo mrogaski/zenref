@@ -117,6 +117,9 @@ Blocking and assisting
   
    - Exception: Jammer vs. jammer blocking
    - Exception: Counter-blocking while out of play
+
+      - Counter-blocking beyond what is required for safety is considered a separate block 
+   
    - Exception: Passively assisting while straddling the track
    - Other minor exceptions
      
