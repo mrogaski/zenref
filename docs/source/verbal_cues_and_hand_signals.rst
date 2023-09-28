@@ -219,6 +219,10 @@ Homework
   
    - https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf
      
+- Practice calling penalties and doing the hand signals
+
+   - https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html
+
 - Have a friend quiz you until you can pass this test
   
    - Print version: https://tinyurl.com/ycb4fun4
