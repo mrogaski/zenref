@@ -15,7 +15,7 @@ Concepts
 
    - the target to fall down or go out of bounds, out of play, or back into play
    - the target to lose position against the initiator or an initiator’s teammate
-   - the initiator or a teammate to gain position on an opponent
+   - the initiator or a teammate to gain position on an opponent, or maintain a position that would not have been otherwise
 
       - Brief and minor gains of position do not warrant a penalty unless earning a pass toward scoring or lead jammer status
 
