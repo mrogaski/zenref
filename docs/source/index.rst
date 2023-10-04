@@ -113,13 +113,13 @@ This document is updated for WFTDA’s Rules of Flat Track Roller Derby (January
 Special thanks
 ..............
 
-The knowledgeable folks at Zebra Huddle (www.zebrahuddle.com) assisted me in peer reviewing many of the earlier handouts on referee procedures. I’d also like to thank the many readers who have taken the time to email their thoughts and observations on The Zen of Reffing Roller Derby. Finally, I’d also like to thank the WFTDA, MRDA, and JRDA and their volunteers for their tireless dedication to the sport of roller derby.
+The knowledgeable folks at `Zebra Huddle <www.zebrahuddle.com>`_ assisted me in peer reviewing many of the earlier handouts on referee procedures. I’d also like to thank the many readers who have taken the time to email their thoughts and observations on The Zen of Reffing Roller Derby. Finally, I’d also like to thank the WFTDA, MRDA, and JRDA and their volunteers for their tireless dedication to the sport of roller derby.
 
 
 Feedback
 ........
 
-Readers are encouraged to submit feedback, corrections, criticisms, and comments via email at njderbyref@gmail.com or via `Stephen’s page on Facebook <>`_. Reports of typos, bugs, erroneous information, and the like are always welcome.
+Readers are encouraged to submit feedback, corrections, criticisms, and comments via email at njderbyref@gmail.com or via `Stephen’s page on Facebook <https://m.facebook.com/profile.php/?id=1099311093>`_. Reports of typos, bugs, erroneous information, and the like are always welcome.
 
 
 Disclaimer
