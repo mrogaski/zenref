@@ -81,7 +81,7 @@ Does your league use (or no longer use) this training manual? Please e-mail me s
 
 ----
 
-*Permission is granted to share this document and to adapt and share modified versions provided appropriate credit is given to the original author, and you indicate what, if any, changes were made. Please see the `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_  for more information.*
+*Permission is granted to share this document and to adapt and share modified versions provided appropriate credit is given to the original author, and you indicate what, if any, changes were made. Please see the* `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_ *for more information.*
 
 **The Zen of Reffing Roller Derby**
 
