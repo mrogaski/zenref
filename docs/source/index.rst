@@ -1,7 +1,6 @@
 .. Zen of Reffing documentation master file, created by
    sphinx-quickstart on Thu Mar 30 13:46:06 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+
 
 Welcome to the Zen of Reffing Roller Derby!
 ===========================================
@@ -17,7 +16,7 @@ URL: http://zen-roller-derby.xyz
 
 `Get printable version here <https://roller-derby.frama.io/the-zen-of-reffing/zen-roller-derby.pdf>`_
 
-Last updated: November 26, 2019.
+Last updated: September 2023.
 
 **YouTube videos on Illegal Target Zones and Passing the Star are in need of updating.**
 
