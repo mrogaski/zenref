@@ -167,8 +167,7 @@ Contents
    document_change_summary
    
 
-All lessons have accompanying videos available on YouTube.
-
+All lessons have accompanying videos available on YouTube. 
 The entire set of video lessons can be found at this `link <https://www.youtube.com/playlist?list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_.
 
 
