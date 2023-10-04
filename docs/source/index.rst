@@ -81,7 +81,7 @@ Does your league use (or no longer use) this training manual? Please e-mail me s
 
 ----
 
-*Permission is granted to share this document and to adapt and share modified versions provided appropriate credit is given to the original author, and you indicate what, if any, changes were made. Please see the `Creative Commons License<https://creativecommons.org/licenses/by-nc-sa/4.0/>`_ for more information.*
+*Permission is granted to share this document and to adapt and share modified versions provided appropriate credit is given to the original author, and you indicate what, if any, changes were made. Please see the `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_  for more information.*
 
 **The Zen of Reffing Roller Derby**
 
@@ -90,7 +90,7 @@ Does your league use (or no longer use) this training manual? Please e-mail me s
 About these handouts
 ....................
 
-These handouts were written solely by Stephen (“Axis of Stevil”) Lorimor. This program is entirely his own creation and he is solely responsible for its content.
+These handouts were written by Stephen (“Axis of Stevil”) Lorimor. This program is his own creation and he is solely responsible for its content.
 
 
 About the author
@@ -98,11 +98,16 @@ About the author
 
 Axis of Stevil, a self-described rules nerd, is a former WFTDA level 1 certified referee and a member of the WFTDA Rules Committee.  He is dual-affiliated with both Garden State Rollergirls and Jerzey Derby Brigade. He formerly volunteered with the WFTDA Apprentice Program and served as lead writer for Roller Derby Rule of the Day on Facebook. He is also the former co-THR for the JRDA Champs and JRDA World Cup. The truly curious can read his game history at www.tinyurl.com/stevil2. In his downtime he’s the webmaster of Roller Derby Patches, the owner of Patches by Stevil, and admin of the Roller Derby Patches group on Facebook.
 
+About the maintainer
+....................
+
+Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as `the random penalty generator <https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html>`_, and the "who's reffing?" game.
+
 
 Ruleset
 .......
 
-This document is updated for WFTDA’s Rules of Flat Track Roller Derby (January 1, 2019 version). On occasion information is presented in light of rules discussions accessible to WFTDA member leagues via the WFTDA forums. No information contained in these handouts violates WFTDA’s non-disclosure agreement.
+This document is updated for WFTDA’s Rules of Flat Track Roller Derby (January 1, 2023 version). On occasion information is presented in light of rules discussions accessible to WFTDA member leagues via the WFTDA forums. No information contained in these handouts violates WFTDA’s non-disclosure agreement.
 
 
 Special thanks
@@ -114,7 +119,7 @@ The knowledgeable folks at Zebra Huddle (www.zebrahuddle.com) assisted me in pee
 Feedback
 ........
 
-Readers are encouraged to submit feedback, corrections, criticisms, and comments via email at njderbyref@gmail.com or via Stephen’s page on Facebook. Reports of typos, bugs, erroneous information, and the like are always welcome.
+Readers are encouraged to submit feedback, corrections, criticisms, and comments via email at njderbyref@gmail.com or via `Stephen’s page on Facebook <>`_. Reports of typos, bugs, erroneous information, and the like are always welcome.
 
 
 Disclaimer
