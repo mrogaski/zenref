@@ -98,10 +98,10 @@ About the author
 
 Axis of Stevil, a self-described rules nerd, is a former WFTDA level 1 certified referee and a member of the WFTDA Rules Committee.  He is dual-affiliated with both Garden State Rollergirls and Jerzey Derby Brigade. He formerly volunteered with the WFTDA Apprentice Program and served as lead writer for Roller Derby Rule of the Day on Facebook. He is also the former co-THR for the JRDA Champs and JRDA World Cup. The truly curious can read his game history at www.tinyurl.com/stevil2. In his downtime he’s the webmaster of Roller Derby Patches, the owner of Patches by Stevil, and admin of the Roller Derby Patches group on Facebook.
 
-About the maintainer
+About the Maintainer
 ....................
 
-Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as `the random penalty generator <https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html>`_, and the "who's reffing?" game.
+Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as `the random penalty generator <https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html>`_, `roller derby inspiration <https://www.instagram.com/rollerderbyexpiration/>`_ and the "who's reffing?" game.
 
 
 Ruleset
