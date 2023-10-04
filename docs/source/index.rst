@@ -74,6 +74,8 @@ As used by
      - Veuves Noires de Rouen (Rouen, France)
    * - Molly Rogers Rollergirls (Melbourne, Florida)
      - Whenua Fatales Roller Derby (Levin, New Zealand)
+   * - Roller Derby Toulouse (Toulouse, France)
+     - 
 
 Does your league use (or no longer use) this training manual? Please e-mail me so I can update this list.
 
