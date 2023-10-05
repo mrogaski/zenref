@@ -12,7 +12,7 @@ A training manual for referees
 
 Created by Stephen “Axis of Stevil” Lorimor. Maintained by Isabelle “Blocktopus” Santos.
 
-URL: http://zen-roller-derby.xyz
+**Bookmark this URL:** http://zen-roller-derby.xyz
 
 `Get printable version here <https://roller-derby.frama.io/the-zen-of-reffing/zen-roller-derby.pdf>`_
 
