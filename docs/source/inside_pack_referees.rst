@@ -67,3 +67,11 @@ Tips
 - The IPR-F primarily skates backward. Good backward skating skills are important.
 - Skating a few feet away from the track line not only gives room for the jammer refs to pass, it widens your field of vision allowing you to see more action on the track.
 - If you notice a jammer referee is inconsistent about dropping the whistle from their mouth when covering a not-lead jammer, add their name to your lead is closed call to subtly (and politely) call their attention to your declaration. (ex; “Lead is closed, Stevil”)
+
+
+Skating skills
+--------------
+
+- Backwards skating for the Front IPR
+- Fast transitions between forwards and backwards, clockwise and anti-clockwise skating, to follow the shape of the pack
+- Quick stepping skills to stay out of the way of the Jammer Ref lane

@@ -116,3 +116,13 @@ Tips
    - Keep score at your side during scoring trips.
 
 - JRs should usually be parallel with their jammers (not ahead or behind)
+
+
+Skating skills
+--------------
+
+- Fast starting (ex: toe-stop start)
+- Fast stopping (ex: hockey stop)
+- Abrupt direction changes
+- Shuffles 
+- Moving laterally 

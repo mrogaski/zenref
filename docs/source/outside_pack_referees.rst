@@ -96,3 +96,10 @@ Homework
 
 - Watch Ref-Ed’s great videos on OPR coverage
 - Practice the fluid half-lap rotation
+
+
+Skating skills
+--------------
+
+- Fast skating
+- Backwards skating
