@@ -84,6 +84,7 @@ Example: gentle hip-to-hip contact followed by forceful shoulder contact warrant
       - Threatening a person’s or group’s health or well-being in any way.
 
 Examples: 
+
 - “I’m going to get you for that.”
 - “Kill the jammer!”
 
