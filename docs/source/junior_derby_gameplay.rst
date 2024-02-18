@@ -27,7 +27,8 @@ Basic concepts
    - For some games (non-sanctioned, level 1-2, games with younger skaters, etc.) it may not only acceptable, but appropriate for officials to provide assistance in a manner not normally found at adult games.
 
       - For these games the captains’  meeting is an excellent place to discuss the level of assistance to be provided by officials.
-      - Examples
+
+Examples
 
 - A skater on the track is issued a penalty. The skater moves away from gameplay, but does not leave the track and appears confused. It would be appropriate to provide a more specific instruction to report to the penalty box.
 - A skater loses their toestop and falls down. They crawl off the track into the middle of the outside safety lane. The skater appears upset and unsure what to do next. It may be appropriate to retrieve their toestop, direct them off the edge of the safety lane, and/or notify their bench they need assistance.
@@ -54,7 +55,7 @@ JRDA Rules Addenda
 
       - Follow-up contact is treated as a new block.
 
-- Example: gentle hip-to-hip contact followed by forceful shoulder contact warrants a penalty.
+Example: gentle hip-to-hip contact followed by forceful shoulder contact warrants a penalty.
 
    - After legal and gentle initial contact is made, blockers may apply force in the same manner (ex; hip-to-hip, shoulder-to-chest, etc.).
    - Acceleration is irrelevant.  (This was an important issue in prior rule sets.)
@@ -82,8 +83,9 @@ JRDA Rules Addenda
       - Slurs based on race, religion, sexual orientation, etc.
       - Threatening a person’s or group’s health or well-being in any way.
 
-- Example: “I’m going to get you for that.”
-- Example: “Kill the jammer!”
+Examples: 
+- “I’m going to get you for that.”
+- “Kill the jammer!”
 
       - Failure to remove or cover offensive language or symbols on uniforms or equipment after being instructed to do so by an Official.
 
