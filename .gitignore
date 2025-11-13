@@ -1,4 +1,10 @@
-.venv/*
-*#
-*~
-docs/build/*
+# Sphinx
+build/
+
+# Environment
+.venv/
+.env
+
+# Editor/IDE
+.idea/
+.vscode/

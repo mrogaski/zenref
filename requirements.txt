@@ -1,0 +1,3 @@
+# This file is used to install uv during the deploy process,
+# all other dependencies will be managed by uv.
+uv~=0.9
