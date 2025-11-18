@@ -8,11 +8,69 @@ A training manual for referees
 * Updated by Isabelle “Blocktopus” Santos.
 * Maintained by Mark "Trampling Bias" Rogaski.
 
-.. hint::
+.. tip::
     Bookmark this URL: https://zenref.rollerderby.fyi/
 
-.. attention::
-    YouTube videos on Illegal Target Zones and Passing the Star are in need of updating.
+Ruleset
+.......
+
+This document is updated for WFTDA’s `Rules of Flat Track Roller Derby (January 1, 2023) <wftda_rules_2023>`_ and in the process of being updated for the current `Rules of Flat Track Roller Derby (January 1, 2025) <wftda_rules>`_.
+
+On occasion, information is presented in light of rules discussions accessible to WFTDA member leagues via the `WFTDA Community <wftda_community>`_ forum. No information contained in these handouts violates WFTDA’s non-disclosure agreement.
+
+.. _wftda_rules: https://rules.wftda.com/
+.. _wftda_community: https://community.wftda.org/
+.. _wftda_rules_2023: https://static.wftda.com/rules/archive/wftda-rules-2023-01-01.pdf
+
+.. important::
+    The `WFTDA`_, `MRDA`_, or `JRDA`_ are not responsible for this document and make no claims as to the accuracy of its content.
+
+.. _WFTDA: https://wftda.com/
+.. _MRDA: https://mrda.org/
+.. _JRDA: https://www.juniorrollerderby.org/
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   duties_skills_and_ethics
+   whistles
+   verbal_cues_and_hand_signals
+   game_concepts
+   safety_gear_skates_and_accessories
+   safety_injury_bleeding_and_concussion
+   referees_all_positions
+   outside_pack_referees
+   inside_pack_referees
+   jammer_referees
+   the_head_referee
+   the_penalty_box
+   skater_concerns_and_official_reviews
+   pack_formation
+   basic_scoring
+   advanced_scoring
+   introduction_to_penalties
+   three_types_of_penalties
+   illegal_target_and_blocking_zone_penalties
+   illegal_contact_and_multiplayer_block_penalties
+   illegal_positioning_and_illegal_procedure_penalties
+   cutting_the_track_and_altering_game_flow_penalties
+   unsporting_conduct_penalties
+   expulsions_and_fouling_out
+   no_pack_situations
+   assists
+   clockwise_play
+   passing_the_star
+   junior_derby_gameplay
+   junior_derby_gear_checks
+   document_change_summary
+
+.. seealso::
+    most lessons have accompanying videos available on `YouTube <https://www.youtube.com/playlist?list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_.
+
+    The lessons have not been updated for the current ruleset, but are still useful for new refs.
 
 
 As used by
@@ -102,17 +160,6 @@ Blocktopus has been swallowed by an all-engulfing passion for the rules of rolle
 .. _random penalty generator: https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html
 .. _roller derby inspiration: https://www.instagram.com/rollerderbyexpiration/
 
-Ruleset
-.......
-
-This document is updated for WFTDA’s `Rules of Flat Track Roller Derby (January 1, 2023) <wftda_rules_2023>`_ and in the process of being updated for the current `Rules of Flat Track Roller Derby (January 1, 2025) <wftda_rules>`_.
-
-On occasion, information is presented in light of rules discussions accessible to WFTDA member leagues via the `WFTDA Community <wftda_community>`_ forum. No information contained in these handouts violates WFTDA’s non-disclosure agreement.
-
-.. _wftda_rules: https://rules.wftda.com/
-.. _wftda_community: https://community.wftda.org/
-.. _wftda_rules_2023: https://static.wftda.com/rules/archive/wftda-rules-2023-01-01.pdf
-
 Special thanks
 ..............
 
@@ -135,47 +182,7 @@ The `WFTDA`_, `MRDA`_, or `JRDA`_ are not responsible for this document and make
 .. _MRDA: https://mrda.org/
 .. _JRDA: https://www.juniorrollerderby.org/
 
-Contents
---------
 
-.. toctree::
-   :maxdepth: 1
-   
-   duties_skills_and_ethics
-   whistles
-   verbal_cues_and_hand_signals
-   game_concepts
-   safety_gear_skates_and_accessories
-   safety_injury_bleeding_and_concussion
-   referees_all_positions
-   outside_pack_referees
-   inside_pack_referees
-   jammer_referees
-   the_head_referee
-   the_penalty_box
-   skater_concerns_and_official_reviews
-   pack_formation
-   basic_scoring
-   advanced_scoring
-   introduction_to_penalties
-   three_types_of_penalties
-   illegal_target_and_blocking_zone_penalties
-   illegal_contact_and_multiplayer_block_penalties
-   illegal_positioning_and_illegal_procedure_penalties
-   cutting_the_track_and_altering_game_flow_penalties
-   unsporting_conduct_penalties
-   expulsions_and_fouling_out
-   no_pack_situations
-   assists
-   clockwise_play
-   passing_the_star
-   junior_derby_gameplay
-   junior_derby_gear_checks
-   document_change_summary
-   
-
-All lessons have accompanying videos available on YouTube. 
-The entire set of video lessons can be found at this `link <https://www.youtube.com/playlist?list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_.
 
 
 

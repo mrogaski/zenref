@@ -5,7 +5,7 @@ description = "The Zen of Reffing Roller Derby"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "furo>=2025.9.25",
     "sphinx>=8.2.3",
+    "sphinx-book-theme>=1.1.4",
     "sphinx-last-updated-by-git>=0.3.8",
 ]
