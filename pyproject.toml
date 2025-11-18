@@ -1,0 +1,10 @@
+[project]
+name = "zenref"
+version = "0.1.0"
+description = "The Zen of Reffing Roller Derby"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "rst2pdf>=0.103.1",
+    "sphinx>=8.2.3",
+]
