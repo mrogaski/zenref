@@ -1,24 +1,18 @@
-.. Zen of Reffing documentation master file, created by
-   sphinx-quickstart on Thu Mar 30 13:46:06 2023.
-
-
 Welcome to the Zen of Reffing Roller Derby!
 ===========================================
-
-
 
 A training manual for referees
 ------------------------------
 
-Created by Stephen “Axis of Stevil” Lorimor. Maintained by Isabelle “Blocktopus” Santos.
+* Created by Stephen “Axis of Stevil” Lorimor.
+* Updated by Isabelle “Blocktopus” Santos.
+* Maintained by Mark "Trampling Bias" Rogaski.
 
-**Bookmark this URL:** http://zen-roller-derby.xyz
+.. hint::
+    Bookmark this URL: https://zenref.rollerderby.fyi/
 
-`Get printable version here <https://roller-derby.frama.io/the-zen-of-reffing/zen-roller-derby.pdf>`_
-
-Last updated: September 2023.
-
-**YouTube videos on Illegal Target Zones and Passing the Star are in need of updating.**
+.. attention::
+    YouTube videos on Illegal Target Zones and Passing the Star are in need of updating.
 
 
 As used by
@@ -81,11 +75,13 @@ Does your league use (or no longer use) this training manual? Please e-mail me s
 
 ----
 
-*Permission is granted to share this document and to adapt and share modified versions provided appropriate credit is given to the original author, and you indicate what, if any, changes were made. Please see the* `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_ *for more information.*
+This work is licensed under a
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
 
-**The Zen of Reffing Roller Derby**
+|cc-by-nc-sa-image|
 
-© Stephen (“Axis of Stevil”)
+.. |cc-by-nc-sa-image| image:: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+    :target: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 About these handouts
 ....................
@@ -101,14 +97,21 @@ Axis of Stevil, a self-described rules nerd, is a former WFTDA level 1 certified
 About the Maintainer
 ....................
 
-Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as `the random penalty generator <https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html>`_, `roller derby inspiration <https://www.instagram.com/rollerderbyexpiration/>`_ and the "who's reffing?" game.
+Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as the `random penalty generator`_, `roller derby inspiration`_ and the "who's reffing?" game.
 
+.. _random penalty generator: https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html
+.. _roller derby inspiration: https://www.instagram.com/rollerderbyexpiration/
 
 Ruleset
 .......
 
-This document is updated for WFTDA’s Rules of Flat Track Roller Derby (January 1, 2023 version). On occasion information is presented in light of rules discussions accessible to WFTDA member leagues via the WFTDA forums. No information contained in these handouts violates WFTDA’s non-disclosure agreement.
+This document is updated for WFTDA’s `Rules of Flat Track Roller Derby (January 1, 2023) <wftda_rules_2023>`_ and in the process of being updated for the current `Rules of Flat Track Roller Derby (January 1, 2025) <wftda_rules>`_.
 
+On occasion, information is presented in light of rules discussions accessible to WFTDA member leagues via the `WFTDA Community <wftda_community>`_ forum. No information contained in these handouts violates WFTDA’s non-disclosure agreement.
+
+.. _wftda_rules: https://rules.wftda.com/
+.. _wftda_community: https://community.wftda.org/
+.. _wftda_rules_2023: https://static.wftda.com/rules/archive/wftda-rules-2023-01-01.pdf
 
 Special thanks
 ..............
@@ -119,14 +122,18 @@ The knowledgeable folks at `Zebra Huddle <www.zebrahuddle.com>`_ assisted me in 
 Feedback
 ........
 
-Readers are encouraged to submit feedback, corrections, criticisms, and comments via email at njderbyref@gmail.com or via `Stephen’s page on Facebook <https://m.facebook.com/profile.php/?id=1099311093>`_. Reports of typos, bugs, erroneous information, and the like are always welcome.
+Readers are encouraged to submit feedback, corrections, criticisms, and comments via the `Github discussion page <https://github.com/mrogaski/zenref/discussions>`_.
 
+Reports of typos, bugs, erroneous information, and the like are always welcome. If you are familiar with Github, you can directly `create an issue <https://github.com/mrogaski/zenref/issues>`_. You can also `email an issue to the project maintainer <mrogaski+zenref@pobox.com>`_.
 
 Disclaimer
 ..........
 
-The WFTDA, MRDA, or JRDA are not responsible for this document and make no claims as to the accuracy of its content.
+The `WFTDA`_, `MRDA`_, or `JRDA`_ are not responsible for this document and make no claims as to the accuracy of its content.
 
+.. _WFTDA: https://wftda.com/
+.. _MRDA: https://mrda.org/
+.. _JRDA: https://www.juniorrollerderby.org/
 
 Contents
 --------
