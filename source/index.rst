@@ -164,7 +164,7 @@ Contents
    passing_the_star
    junior_derby_gameplay
    junior_derby_gear_checks
-   document_change_summary
+   CHANGELOG
    
 
 All lessons have accompanying videos available on YouTube. 
