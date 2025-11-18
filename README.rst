@@ -36,13 +36,8 @@ You can also `email an issue to the project maintainer <mrogaski+zenref@pobox.co
 Translation
 ...........
 
-This project is looking for translators. Reach out if you'd like to participate!
+This project is looking for translators. Reach out in the `discussions <https://github.com/mrogaski/zenref/discussions>`_ if you'd like to participate!
 
-- Bluesky: `@skogkatt.io <https://bsky.app/profile/skogkatt.io>`_
-- Discord: `skogkatt668 <https://discordapp.com/users/132196734423007232>`_
-- Email: `mrogaski+zenref@pobox.com <mailto:mrogaski+zenref@pobox.com>`_
-
-  
 Building the Zen
 ----------------
 
@@ -61,16 +56,3 @@ To build and view run the following in a terminal:
 
    make html
    firefox build/html/index.html
-
-   
-Build the PDF version
-.....................
-
-To build the PDF version, you first need to have a sphinx plugin installed.
-
-.. code::
-   
-   uv run sphinx-build -b pdf source build
-
-
-You can then view the file `build/rst2pdf.pdf`.
