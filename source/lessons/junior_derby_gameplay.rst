@@ -1,5 +1,5 @@
-Lesson #29: Junior Derby Gameplay
-=================================
+Junior Derby Gameplay
+=====================
 
 *by Stephen Lorimor / Axis of Stevil*
 
@@ -83,7 +83,7 @@ Example: gentle hip-to-hip contact followed by forceful shoulder contact warrant
       - Slurs based on race, religion, sexual orientation, etc.
       - Threatening a person’s or group’s health or well-being in any way.
 
-Examples: 
+Examples:
 
 - “I’m going to get you for that.”
 - “Kill the jammer!”

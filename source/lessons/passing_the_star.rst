@@ -1,5 +1,5 @@
-Lesson #28: Passing the star
-============================
+Passing the star
+================
 
 *by Stephen Lorimor / Axis of Stevil*
 

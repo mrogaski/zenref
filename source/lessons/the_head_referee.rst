@@ -1,5 +1,5 @@
-Lesson #11: The head referee
-============================
+The head referee
+================
 
 *by Stephen Lorimor / Axis of Stevil*
 

@@ -1,5 +1,5 @@
-Lesson #19: Illegal target and blocking zone penalties
-======================================================
+Illegal target and blocking zone penalties
+==========================================
 
 *by Stephen Lorimor / Axis of Stevil*
 

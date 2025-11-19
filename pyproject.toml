@@ -9,3 +9,8 @@ dependencies = [
     "sphinx-book-theme>=1.1.4",
     "sphinx-last-updated-by-git>=0.3.8",
 ]
+
+[dependency-groups]
+dev = [
+    "sphinx-lint>=1.0.1",
+]

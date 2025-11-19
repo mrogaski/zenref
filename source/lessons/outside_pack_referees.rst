@@ -1,5 +1,5 @@
-Lesson #8: Outside pack referees
-================================
+Outside pack referees
+=====================
 
 *by Stephen Lorimor / Axis of Stevil*
 
@@ -43,9 +43,9 @@ Don't forget...
 
 - When a skater does not hear your call, follow these steps:
 
-   - Chase 	them down on the outside and repeat the call. This overrides your normal coverage.
+    - Chase them down on the outside and repeat the call. This overrides your normal coverage.
 
-      -	This may involve skating clockwise around the track to meet a counterclockwise moving jammer.
+    - This may involve skating clockwise around the track to meet a counterclockwise moving jammer.
 
    - Communicate the penalty to the inside referees.
    - Communicate the penalty to another OPR in better position to make the call

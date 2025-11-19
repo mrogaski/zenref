@@ -1,5 +1,5 @@
-Lesson #30: Junior derby (gear checks)
-======================================
+Junior derby (gear checks)
+==========================
 
 *by Stephen Lorimor / Axis of Stevil*
 

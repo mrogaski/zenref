@@ -33,39 +33,10 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 2
 
-   duties_skills_and_ethics
-   whistles
-   verbal_cues_and_hand_signals
-   game_concepts
-   safety_gear_skates_and_accessories
-   safety_injury_bleeding_and_concussion
-   referees_all_positions
-   outside_pack_referees
-   inside_pack_referees
-   jammer_referees
-   the_head_referee
-   the_penalty_box
-   skater_concerns_and_official_reviews
-   pack_formation
-   basic_scoring
-   advanced_scoring
-   introduction_to_penalties
-   three_types_of_penalties
-   illegal_target_and_blocking_zone_penalties
-   illegal_contact_and_multiplayer_block_penalties
-   illegal_positioning_and_illegal_procedure_penalties
-   cutting_the_track_and_altering_game_flow_penalties
-   unsporting_conduct_penalties
-   expulsions_and_fouling_out
-   no_pack_situations
-   assists
-   clockwise_play
-   passing_the_star
-   junior_derby_gameplay
-   junior_derby_gear_checks
-   document_change_summary
+    lessons/index
+    changelog
 
 .. seealso::
     most lessons have accompanying videos available on `YouTube <https://www.youtube.com/playlist?list=PLRg6cN0RqKNomUbKTHw1ITXLT7pPQ9GX7>`_.
@@ -76,10 +47,10 @@ Contents
 As used by
 ..........
 
-.. list-table:: 
+.. list-table::
    :widths: 50 50
    :header-rows: 0
-		 
+
    * - Badlands Roller Derby League (Drumheller, Canada)
      - Montreal Roller Derby (Montreal, Canada)
    * - Boom Town Roller Derby (Mat-Su Valley, Alaska)
@@ -127,7 +98,7 @@ As used by
    * - Molly Rogers Rollergirls (Melbourne, Florida)
      - Whenua Fatales Roller Derby (Levin, New Zealand)
    * - Roller Derby Toulouse (Toulouse, France)
-     - 
+     -
 
 Does your league use (or no longer use) this training manual? Please e-mail me so I can update this list.
 

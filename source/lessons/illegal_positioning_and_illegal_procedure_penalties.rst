@@ -1,5 +1,5 @@
-Lesson #21: Illegal positioning and illegal procedure penalties
-===============================================================
+Illegal positioning and illegal procedure penalties
+===================================================
 
 *by Stephen Lorimor / Axis of Stevil*
 

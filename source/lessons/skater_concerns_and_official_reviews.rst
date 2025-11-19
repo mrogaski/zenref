@@ -1,5 +1,5 @@
-Lesson #13: Skater concerns and official reviews
-================================================
+Skater concerns and official reviews
+====================================
 
 *by Stephen Lorimor / Axis of Stevil*
 
