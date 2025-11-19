@@ -1,12 +1,18 @@
 The Zen of Reffing Roller Derby
 ===============================
 
-|cc-by-nc-sa-badge|
+|cc-badge|
+|netlify-badge|
 
-.. |cc-by-nc-sa-badge| image:: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+.. |cc-badge| image:: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
     :target: http://creativecommons.org/licenses/by-nc-sa/4.0/
+.. |netlify-badge| image:: https://api.netlify.com/api/v1/badges/b008e4a2-1a0e-46d0-9576-3d0b2b0abe31/deploy-status
+    :target: https://app.netlify.com/projects/zenref/deploys
 
 **The Zen of Reffing Roller Derby** is a training manual for roller derby referees.
+
+.. rubric::
+    https://zenref.rollerderby.fyi/
 
 It was created by Stephen "Axis of Stevil" Lorimor, updated by Isabelle “Blocktopus” Santos, and is currently maintained by Mark "Trampling Bias" Rogaski.
 
