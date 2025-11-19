@@ -1,5 +1,5 @@
-Lesson #10: Jammer referees
-===========================
+Jammer referees
+===============
 
 *by Stephen Lorimor / Axis of Stevil*
 
@@ -124,5 +124,5 @@ Skating skills
 - Fast starting (ex: toe-stop start)
 - Fast stopping (ex: hockey stop)
 - Abrupt direction changes
-- Shuffles 
-- Moving laterally 
+- Shuffles
+- Moving laterally

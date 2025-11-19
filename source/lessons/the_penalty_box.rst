@@ -1,5 +1,5 @@
-Lesson #12: The penalty box
-===========================
+The penalty box
+===============
 
 *by Stephen Lorimor / Axis of Stevil*
 

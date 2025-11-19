@@ -1,5 +1,5 @@
-Lesson #26: Assists
-===================
+Assists
+=======
 
 *by Stephen Lorimor / Axis of Stevil*
 
@@ -46,7 +46,7 @@ Legal and illegal assists
 
    - The second participant in the assist must be
 
-      - Upright 
+      - Upright
 
 - Exception: helping a downed skater upright in the engagement zone should be considered an act of good sportsmanship
 

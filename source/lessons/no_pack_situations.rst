@@ -1,5 +1,5 @@
-Lesson #25: No pack situations
-==============================
+No pack situations
+==================
 
 *by Stephen Lorimor / Axis of Stevil*
 

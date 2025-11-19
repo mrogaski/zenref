@@ -1,5 +1,5 @@
-Lesson #17: Introduction to penalties
-=====================================
+Introduction to penalties
+=========================
 
 *by Stephen Lorimor / Axis of Stevil and Isabelle Santos / Blocktopus*
 

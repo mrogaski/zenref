@@ -1,5 +1,5 @@
-Lesson #27: Clockwise play
-==========================
+Clockwise play
+==============
 
 *by Stephen Lorimor / Axis of Stevil*
 

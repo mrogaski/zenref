@@ -1,5 +1,5 @@
-Lesson #14: Pack formation
-==========================
+Pack formation
+==============
 
 *by Stephen Lorimor / Axis of Stevil*
 
@@ -31,7 +31,7 @@ Definitions
 - Pack - The largest group of upright, in bounds blockers skating or standing in close proximity (10’ links) containing members from both teams.
 
    - “Largest” means two or more equal-sized groups cannot constitute a pack.
-   - “Upright, in bounds” means down or out of bounds skaters are not part of the pack.  
+   - “Upright, in bounds” means down or out of bounds skaters are not part of the pack.
 
       - This includes skaters straddling the line.
 

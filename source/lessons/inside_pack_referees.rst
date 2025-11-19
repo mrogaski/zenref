@@ -1,5 +1,5 @@
-Lesson #9: Inside pack referees
-===============================
+Inside pack referees
+====================
 
 *by Stephen Lorimor / Axis of Stevil*
 

@@ -1,5 +1,5 @@
-Lesson #18: Three types of penalties
-====================================
+Three types of penalties
+========================
 
 *by Stephen Lorimor / Axis of Stevil*
 

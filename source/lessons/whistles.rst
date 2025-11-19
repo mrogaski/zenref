@@ -1,5 +1,5 @@
-Lesson #2: Whistles
-===================
+Whistles
+========
 
 *by Stephen Lorimor / Axis of Stevil*
 
@@ -15,18 +15,18 @@ Whistles
 
    - On lanyard
    - On finger ring
-     
+
 - Fox makes several other acceptable models
 
    - Classic Mini is a smaller version of the Classic. Same tone, but 6 dB quieter.
 
    - Eclipse is the same sound and volume as Classic, but a sleeker design.
-     
+
 - Fox 40 makes several other whistles (Pearl, Sonik, etc.)
 
    - Avoid non-standard whistles unless specifically instructed to use them.
    - Skaters are trained to respond to the specific tone of the Fox 40 Classic, and may be confused by non-standard whistles.
-     
+
 - Covid tip: Fox now makes a whistle-mask for officials. (If you ever try one out, write to me and tell me how well it works.)
 
 
@@ -38,9 +38,9 @@ Signals
 - One long blast → Penalty
 - Four rapid, short blasts (one set) → Beginning of a timeout (team or official)
 - Four rapid, short blasts (three sets) → Jam end
-  
+
    - Continue sets until skaters cease playing.
-     
+
 - Rolling whistle → End of timeout or period
 
 

@@ -1,5 +1,5 @@
-Lesson #7: Referees (all positions)
-===================================
+Referees (all positions)
+========================
 
 *by Stephen Lorimor / Axis of Stevil*
 

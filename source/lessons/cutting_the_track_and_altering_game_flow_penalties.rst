@@ -1,5 +1,5 @@
-Lesson #22: Cutting the track and altering game flow penalties
-==============================================================
+Cutting the track and altering game flow penalties
+==================================================
 
 *by Stephen Lorimor / Axis of Stevil*
 

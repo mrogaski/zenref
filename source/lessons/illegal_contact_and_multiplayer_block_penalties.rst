@@ -1,5 +1,5 @@
-Lesson #20: Illegal contact and multiplayer block penalties
-===========================================================
+Illegal contact and multiplayer block penalties
+===============================================
 
 *by Stephen Lorimor / Axis of Stevil*
 

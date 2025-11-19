@@ -1,5 +1,5 @@
-Lesson #24: Expulsions and fouling out
-======================================
+Expulsions and fouling out
+==========================
 
 *by Stephen Lorimor / Axis of Stevil*
 
