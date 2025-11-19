@@ -22,12 +22,14 @@ On occasion, information is presented in light of rules discussions accessible t
 .. _wftda_community: https://community.wftda.org/
 .. _wftda_rules_2023: https://static.wftda.com/rules/archive/wftda-rules-2023-01-01.pdf
 
-.. important::
+.. important:: Disclaimer
     The `WFTDA`_, `MRDA`_, or `JRDA`_ are not responsible for this document and make no claims as to the accuracy of its content.
 
 .. _WFTDA: https://wftda.com/
 .. _MRDA: https://mrda.org/
 .. _JRDA: https://www.juniorrollerderby.org/
+
+----
 
 Contents
 --------
@@ -43,66 +45,87 @@ Contents
 
     The lessons have not been updated for the current ruleset, but are still useful for new refs.
 
+----
 
 As used by
-..........
+----------
 
-.. list-table::
-   :widths: 50 50
-   :header-rows: 0
+.. hlist::
+    :columns: 3
 
-   * - Badlands Roller Derby League (Drumheller, Canada)
-     - Montreal Roller Derby (Montreal, Canada)
-   * - Boom Town Roller Derby (Mat-Su Valley, Alaska)
-     - New Hampshire Roller Derby (Manchester, NH)
-   * - Brazos Valley Roller Derby (Bryan, Texas)
-     - New Jersey Roller Derby (Morristown, New Jersey)
-   * - Brighton Rockers Roller Derby (Brighton, UK)
-     - North Texas Fallout Junior Roller Derby (Denton, Texas)
-   * - Capital City Crushers (Topeka, Kansas)
-     - North Texas Roller Derby (Denton, Texas)
-   * - Central California Area Derby (Fresno, California)
-     - Old Capitol City Roller Derby (Iowa City, Iowa)
-   * - Central West Roller Derby League (Bathurst, Australia)
-     - Pensacola Roller Gurlz (Pensacola, Florida)
-   * - Charm City Roller Girls (Baltimore, Maryland)
-     - Pirate City Rollers (Auckland, New Zealand)
-   * - Chattanooga Roller Girls (Chattanooga, Tennessee)
-     - RockyView Roller Derby (Airdrie, Alberta Canada)
-   * - Chick Whips Junior Roller Derby (Topeka, Kansas)
-     - Roller Derby Iceland (Reykjavík, Iceland)
-   * - Copper State Roller Derby (Tucson, Arizona)
-     - Rollerderby Hanover (Hanover, Germany)
-   * - Dragon City Roller Derby (Bendigo, Australia)
-     - Sailor City Roller Derby (Buenos Aires, Argentina)
-   * - Free State Roller Derby (Rockville, Maryland)
-     - San Marcos River Rollers (San Marcos, Texas)
-   * - Flint Roller Derby (Flint, Michigan)
-     - Sintral Valley Derby Girls (Modesto, California)
-   * - Gallatin Roller Derby (Bozeman, Montana)
-     - Sirens of Smash Roller Derby (Nelson, New Zealand)
-   * - Garden State Rollergirls (Newark, New Jersey)
-     - Southern Oregon Derby (Medford, Oregon)
-   * - Hellions of Troy Roller Derby (Troy, New York)
-     - State College Area Roller Derby (State College, PA)
-   * - Hurricane Alley Roller Derby (Corpus Christi, Texas)
-     - Strong Island Roller Derby (East Setauket, New York)
-   * - Ithaca League of Women Rollers (Ithaca, New York)
-     - Suburbia Roller Derby (Yonkers, New York)
-   * - Jerzey Derby Brigade (Morristown, New Jersey)
-     - Tenerife Roller Derby (Tenerife, Spain)
-   * - Les Quads de Paris (Paris, France)
-     - Tokyo Roller Girls (Tokyo, Japan)
-   * - Lille Roller Girls (Lille, France)
-     - Veuves Noires de Rouen (Rouen, France)
-   * - Molly Rogers Rollergirls (Melbourne, Florida)
-     - Whenua Fatales Roller Derby (Levin, New Zealand)
-   * - Roller Derby Toulouse (Toulouse, France)
-     -
+    - Badlands Roller Derby League (Drumheller, Canada)
+    - Boom Town Roller Derby (Mat-Su Valley, Alaska)
+    - Brazos Valley Roller Derby (Bryan, Texas)
+    - Brighton Rockers Roller Derby (Brighton, UK)
+    - Capital City Crushers (Topeka, Kansas)
+    - Central California Area Derby (Fresno, California)
+    - Central West Roller Derby League (Bathurst, Australia)
+    - Charm City Roller Girls (Baltimore, Maryland)
+    - Chattanooga Roller Girls (Chattanooga, Tennessee)
+    - Chick Whips Junior Roller Derby (Topeka, Kansas)
+    - Copper State Roller Derby (Tucson, Arizona)
+    - Dirty Jersey Roller Derby (Hazlet, New Jersey)
+    - Dragon City Roller Derby (Bendigo, Australia)
+    - Free State Roller Derby (Rockville, Maryland)
+    - Flint Roller Derby (Flint, Michigan)
+    - Gallatin Roller Derby (Bozeman, Montana)
+    - Garden State Rollergirls (Newark, New Jersey)
+    - Hellions of Troy Roller Derby (Troy, New York)
+    - Hurricane Alley Roller Derby (Corpus Christi, Texas)
+    - Ithaca League of Women Rollers (Ithaca, New York)
+    - Jerzey Derby Brigade (Morristown, New Jersey)
+    - Les Quads de Paris (Paris, France)
+    - Lille Roller Girls (Lille, France)
+    - Molly Rogers Rollergirls (Melbourne, Florida)
+    - Roller Derby Toulouse (Toulouse, France)
+    - Montreal Roller Derby (Montreal, Canada)
+    - New Hampshire Roller Derby (Manchester, NH)
+    - New Jersey Roller Derby (Morristown, New Jersey)
+    - North Texas Fallout Junior Roller Derby (Denton, Texas)
+    - North Texas Roller Derby (Denton, Texas)
+    - Old Capitol City Roller Derby (Iowa City, Iowa)
+    - Pensacola Roller Gurlz (Pensacola, Florida)
+    - Pirate City Rollers (Auckland, New Zealand)
+    - RockyView Roller Derby (Airdrie, Alberta Canada)
+    - Roller Derby Iceland (Reykjavík, Iceland)
+    - Rollerderby Hanover (Hanover, Germany)
+    - Sailor City Roller Derby (Buenos Aires, Argentina)
+    - San Marcos River Rollers (San Marcos, Texas)
+    - Sintral Valley Derby Girls (Modesto, California)
+    - Sirens of Smash Roller Derby (Nelson, New Zealand)
+    - Southern Oregon Derby (Medford, Oregon)
+    - State College Area Roller Derby (State College, PA)
+    - Strong Island Roller Derby (East Setauket, New York)
+    - Suburbia Roller Derby (Yonkers, New York)
+    - Tenerife Roller Derby (Tenerife, Spain)
+    - Tokyo Roller Girls (Tokyo, Japan)
+    - Veuves Noires de Rouen (Rouen, France)
+    - Whenua Fatales Roller Derby (Levin, New Zealand)
 
 Does your league use (or no longer use) this training manual? Please e-mail me so I can update this list.
 
 ----
+
+About these handouts
+--------------------
+
+These handouts were written by Stephen (“Axis of Stevil”) Lorimor. This program is his own creation and he is solely responsible for its content.
+
+
+People
+......
+
+`Axis of Stevil <https://docs.google.com/spreadsheets/d/1OoqIQCveU0-Tar9UbX1hIMPIc0hqUhCf5hnXjILxefY/edit?gid=228092282#gid=228092282>`_ (author)
+    Stevil is a self-described rules nerd, is a former WFTDA level 1 certified referee and a member of the WFTDA Rules Committee.  He is dual-affiliated with both Garden State Rollergirls and Jerzey Derby Brigade. He formerly volunteered with the WFTDA Apprentice Program and served as lead writer for Roller Derby Rule of the Day on Facebook. He is also the former co-THR for the JRDA Champs and JRDA World Cup. In his downtime he’s the webmaster of Roller Derby Patches, the owner of Patches by Stevil, and admin of the Roller Derby Patches group on Facebook.
+
+Blocktopus (maintainer)
+    Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as the `random penalty generator`_, `roller derby inspiration`_ and the "who's reffing?" game.
+
+.. _random penalty generator: https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html
+.. _roller derby inspiration: https://www.instagram.com/rollerderbyexpiration/
+
+License
+-------
 
 This work is licensed under a
 `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
@@ -112,51 +135,15 @@ This work is licensed under a
 .. |cc-by-nc-sa-image| image:: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
     :target: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-About these handouts
-....................
-
-These handouts were written by Stephen (“Axis of Stevil”) Lorimor. This program is his own creation and he is solely responsible for its content.
-
-
-About the author
-................
-
-Axis of Stevil, a self-described rules nerd, is a former WFTDA level 1 certified referee and a member of the WFTDA Rules Committee.  He is dual-affiliated with both Garden State Rollergirls and Jerzey Derby Brigade. He formerly volunteered with the WFTDA Apprentice Program and served as lead writer for Roller Derby Rule of the Day on Facebook. He is also the former co-THR for the JRDA Champs and JRDA World Cup. The truly curious can read his game history at www.tinyurl.com/stevil2. In his downtime he’s the webmaster of Roller Derby Patches, the owner of Patches by Stevil, and admin of the Roller Derby Patches group on Facebook.
-
-About the Maintainer
-....................
-
-Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as the `random penalty generator`_, `roller derby inspiration`_ and the "who's reffing?" game.
-
-.. _random penalty generator: https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html
-.. _roller derby inspiration: https://www.instagram.com/rollerderbyexpiration/
-
 Special thanks
-..............
+--------------
 
 The knowledgeable folks at `Zebra Huddle <www.zebrahuddle.com>`_ assisted me in peer reviewing many of the earlier handouts on referee procedures. I’d also like to thank the many readers who have taken the time to email their thoughts and observations on The Zen of Reffing Roller Derby. Finally, I’d also like to thank the WFTDA, MRDA, and JRDA and their volunteers for their tireless dedication to the sport of roller derby.
 
 
 Feedback
-........
+--------
 
 Readers are encouraged to submit feedback, corrections, criticisms, and comments via the `Github discussion page <https://github.com/mrogaski/zenref/discussions>`_.
 
 Reports of typos, bugs, erroneous information, and the like are always welcome. If you are familiar with Github, you can directly `create an issue <https://github.com/mrogaski/zenref/issues>`_. You can also `email an issue to the project maintainer <mrogaski+zenref@pobox.com>`_.
-
-Disclaimer
-..........
-
-The `WFTDA`_, `MRDA`_, or `JRDA`_ are not responsible for this document and make no claims as to the accuracy of its content.
-
-.. _WFTDA: https://wftda.com/
-.. _MRDA: https://mrda.org/
-.. _JRDA: https://www.juniorrollerderby.org/
-
-
-
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
