@@ -5,7 +5,7 @@ A training manual for referees
 ------------------------------
 
 * Created by Stephen “Axis of Stevil” Lorimor.
-* Updated by Isabelle “Blocktopus” Santos.
+* Updated by Isabelle “Blocktopus” Santos and Deanna "Fury" Springgay.
 * Maintained by Mark "Trampling Bias" Rogaski.
 
 .. tip::
@@ -118,11 +118,14 @@ People
 `Axis of Stevil <https://docs.google.com/spreadsheets/d/1OoqIQCveU0-Tar9UbX1hIMPIc0hqUhCf5hnXjILxefY/edit?gid=228092282#gid=228092282>`_ (author)
     Stevil is a self-described rules nerd, is a former WFTDA level 1 certified referee and a member of the WFTDA Rules Committee.  He is dual-affiliated with both Garden State Rollergirls and Jerzey Derby Brigade. He formerly volunteered with the WFTDA Apprentice Program and served as lead writer for Roller Derby Rule of the Day on Facebook. He is also the former co-THR for the JRDA Champs and JRDA World Cup. In his downtime he’s the webmaster of Roller Derby Patches, the owner of Patches by Stevil, and admin of the Roller Derby Patches group on Facebook.
 
-Blocktopus (maintainer)
+Blocktopus
     Blocktopus has been swallowed by an all-engulfing passion for the rules of roller derby. She is the author of tools such as the `random penalty generator`_, `roller derby inspiration`_ and the "who's reffing?" game.
 
 .. _random penalty generator: https://roller-derby.frama.io/-/random-penalty-generator/-/jobs/2092254/artifacts/public/index.html
 .. _roller derby inspiration: https://www.instagram.com/rollerderbyexpiration/
+
+`Fury <https://linktr.ee/deannaspringgay>`_ (current updater)
+    Fury has escaped the Wisconsin containment zone and is currently making many derby friends at a multitude of tournaments by asking for everyone's top piece of advice. She's working on bringing amazing resources built in the last 10 years up to date.
 
 License
 -------
