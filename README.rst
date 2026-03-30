@@ -14,7 +14,7 @@ The Zen of Reffing Roller Derby
 .. rubric::
     https://zenref.rollerderby.fyi/
 
-It was created by Stephen "Axis of Stevil" Lorimor, updated by Isabelle “Blocktopus” Santos, and is currently maintained by Mark "Trampling Bias" Rogaski.
+It was created by Stephen "Axis of Stevil" Lorimor, updated by Isabelle “Blocktopus” Santos and Deanna "Fury" Springgay, and is currently maintained by Mark "Trampling Bias" Rogaski.
 
 License
 -------
